@@ -1,5 +1,4 @@
-<h1 align="center">Code supplement</h1>
-
+# Code supplement
 
 - 01_explore_target_data.ipynb: Calculates the statistics of the input water quality data.
 - 02_covariate_set_reduction.ipynb: Performs covariate reduction based on within-group and target correlations.
