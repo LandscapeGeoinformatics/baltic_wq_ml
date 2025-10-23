@@ -1,17 +1,26 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 authors:
-- family-names: "Kmoch"
-  given-names: "Alexander"
-  orcid: https://orcid.org/0000-0003-4386-4450
+- family-names: "Jemeljanova"
+  given-names: "Marta"
+  orcid: https://orcid.org/0000-0002-7063-2236
 - family-names: "Virro"
   given-names: "Holger"
   orcid: https://orcid.org/0000-0001-6110-5453
+- family-names: "Kokorite"
+  given-names: "Ilga"
+  orcid: https://orcid.org/0000-0001-6052-4963
+- family-names: "Kmoch"
+  given-names: "Alexander"
+  orcid: https://orcid.org/0000-0003-4386-4450
+- family-names: "Annusver"
+  given-names: "Marie"
+  orcid: https://orcid.org/0000-000x-xxxx-xxxx
 - family-names: "Uuemaa"
   given-names: "Evelyn"
   orcid: https://orcid.org/0000-0002-0782-6740
 title: "Landscape Geoinformatics baltic_wq_ml code supplement materials"
 version: 1.0.0
 doi: 10.5281/zenodo.xxxxxxx
-date-released: 2025-06-24
+date-released: 2025-10-23
 url: "https://github.com/LandscapeGeoinformatics/baltic_wq_ml"
