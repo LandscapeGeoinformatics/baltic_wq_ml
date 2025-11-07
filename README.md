@@ -1,4 +1,4 @@
-# Code supplement: Water quality modelling using spatial machine learning and catchment characteristics at a regional level
+# Code supplement: Advancing regional water quality modelling: Integrating spatial machine learning with large-scale catchment data
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17424002.svg)](https://doi.org/10.5281/zenodo.17424002)
 
